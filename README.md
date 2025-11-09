@@ -266,17 +266,12 @@ This project is licensed under the MIT License.
 
 ## 👥 Contributors
 
-- Tanish Chowdhury
 - Aadi Bhardwaj
 
 ## 🙏 Acknowledgments
 
 - Django and React communities for excellent documentation
 - SendGrid and Cloudinary for reliable services
-
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub or contact [tanish.chowdhury0310@gmail.com]
 
 ---
 
