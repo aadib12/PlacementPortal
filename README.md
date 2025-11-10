@@ -56,7 +56,7 @@ A comprehensive web-based placement management system designed for educational i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/placement-portal.git
+   git clone https://github.com/aadib12/CareerConnect
    cd placement-portal/backend
    ```
 
