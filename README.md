@@ -1,4 +1,4 @@
-# Placement Portal
+# CareerConnect
 
 A comprehensive web-based placement management system designed for educational institutions to streamline the campus recruitment process.
 
